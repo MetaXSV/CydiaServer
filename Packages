@@ -1,0 +1,14 @@
+Package: com.ejemplo.tweak
+Name: Mi Tweak
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Esto es un tweak de prueba
+Maintainer: Yo eelzapito@gmail.com
+Author: Yo eelzapito@gmail
+Section: Tweaks
+Depends: (lo que necesite)
+Filename: debs/mitweak.deb
+Size: 12345
+MD5sum: (hash md5 en minúsculas)
+SHA1: (hash sha1 en minúsculas)
+SHA256: (hash sha256 en minúsculas)
